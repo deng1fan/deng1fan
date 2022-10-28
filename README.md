@@ -3,7 +3,7 @@
 ### Hi there 👋  
 
 <!--
-**appleloveme/appleloveme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**D-Yifan/D-Yifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Yifan Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleloveme&show_icons=true)
+![Yifan Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Yifan&show_icons=true)
 
 
-![Yifan Deng's github activity graph](https://activity-graph.herokuapp.com/graph?username=appleloveme&theme=dracula)
+![Yifan Deng's github activity graph](https://activity-graph.herokuapp.com/graph?username=D-Yifan&theme=dracula)
