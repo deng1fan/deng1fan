@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/知乎-邓什么邓-orange)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=deng1fan/deng1fan&left_color=gray&right_color=orange)
 
 ### Hi there 👋  
 
