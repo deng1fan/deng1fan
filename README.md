@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/知乎-邓什么邓-orange)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mute-ZEN.Mute-ZEN&left_color=gray&right_color=orange)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=deng1fan/deng1fan&left_color=gray&right_color=orange)
 
 ### Hi there 👋  
 
 
-![Yifan Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mute-ZEN&show_icons=true)
+![Yifan Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=deng1fan&show_icons=true)
 
 <!--
  ![Yifan Deng's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mute-ZEN&theme=dracula)
