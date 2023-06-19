@@ -1,5 +1,9 @@
 ![](https://img.shields.io/badge/知乎-邓什么邓-orange)
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<span id="busuanzi_value_page_pv">被访问<i class="fa fa-spinner fa-spin"></i>次</span>
+
+
 ### Hi there 👋  
 
 
